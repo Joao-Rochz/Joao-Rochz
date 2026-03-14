@@ -4,9 +4,6 @@
 
 Sou um desenvolvedor em início de carreira com foco em Engenharia de Software, tenho 20 anos, sou técnico em Manutenção e Suporte em Informática e formado em Análise e Desenvolvimento de Sistemas. Dedico-me ao desenvolvimento de aplicações utilizando Java e ao gerenciamento de dados com SQL Server. Tenho interesse em aplicar boas práticas de desenvolvimento, versionamento de código e organização de projetos, buscando sempre escrever código limpo, eficiente e escalável.
 
-LinkedIn : "[João Pedro Rocha](www.linkedin.com/in/joaopedrosrocha)" 
-
-
 <p align="left">
     <a href="https://github.com/Joao-Rochz?tab=followers">
         <img 
